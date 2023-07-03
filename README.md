@@ -1,2 +1,3 @@
-# histogram_equalization
-Computer Vision project
+# histogram_equalization_cvision
+
+Computer Vision project.
